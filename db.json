@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "name": "Samsung Galaxy ISF",
+      "brand": "Samsung ",
+      "category": "Phones",
+      "Price": "680$",
+      "description": "SmartPhones",
+      "createdAt": "2024-02-20",
+      "id": 1
+    },
+    {
+      "name": "Nokia X300",
+      "brand": "Nokia ",
+      "category": "Phones",
+      "Price": "211",
+      "description": "Red Color",
+      "createdAt": "2023-03-07",
+      "id": 2
+    }
+  ]
+}
